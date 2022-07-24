@@ -1,4 +1,4 @@
-#Handman word guessing game
+#Hangman word guessing game
 #Created by Aswin ks
 
 import random
