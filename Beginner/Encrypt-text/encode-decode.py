@@ -1,5 +1,4 @@
 #CAESAR CIPHER : Encode and Decode message based on shift.
-#Note : This works with only letters. Add symbols and numbers to list to add additional functionalities.
 #Created by Aswin ks
 
 
