@@ -10,7 +10,8 @@ from tkinter import messagebox
 def fetch_weather():
 
 
-    api_key='705f27d5f8729c3f9553535ecfb11f34' #you can get this api key from the https://openweathermap.org/ websites api section.create an account and use your api key.
+    api_key='your_api_key' #you can get this api key from the https://openweathermap.org/ websites api section.create an account and use your api key.
+
     user_input=place_entry.get()
 
     if user_input =="":   #if user didnt enter any data

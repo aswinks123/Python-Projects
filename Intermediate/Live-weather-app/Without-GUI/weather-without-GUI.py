@@ -1,7 +1,7 @@
 import requests  #This module is used to sent HTTP requests
 
 
-api_key='705f27d5f8729c3f9553535ecfb11f34'
+api_key='your_api_key'
 
 user_input=input("Enter City Name:")
 
