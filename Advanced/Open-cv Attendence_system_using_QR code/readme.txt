@@ -25,7 +25,8 @@ attendence.txt contains the attendence: Only Authorized user name and data will 
 
 
 
-Screen shot:
+Screen shot: scanning-screenshot.PNG  , QR-generation.png
 
 
 
+Thankyou
